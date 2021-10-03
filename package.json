@@ -1,0 +1,11 @@
+{
+  "name": "addition-algorithm",
+  "version": "1.0.0",
+  "description": "Simple addition algorithm written in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArmadilloHead02",
+  "license": "ISC"
+}
